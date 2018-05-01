@@ -7,4 +7,8 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
+<<<<<<< HEAD
 turn(board)
+=======
+input = gets.chomp
+>>>>>>> 7194cc3574099de9f76c0a0969050c73f709e802
